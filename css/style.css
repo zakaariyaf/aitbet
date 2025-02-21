@@ -186,11 +186,11 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .section {
-  padding: 100px 0;
+  padding: 20px 0;
 }
 
 .section-sm {
-  padding: 70px 0;
+  padding: 15px 0;
 }
 
 .section-title {
