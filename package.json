@@ -1,6 +1,7 @@
 {
   "name": "aitbet_front",
   "version": "0.1.0",
+  "homepage": "https://zakaariyaf.github.io/aitbet/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
